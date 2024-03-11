@@ -2,7 +2,7 @@ demo link  https://chatwithpdfgenai.streamlit.app/
 
 # Chat with PDF
 
-A Streamlit application to upload PDF files, extract text, and ask questions based on the content. Utilizes PyPDF2, LangChain, Google's Generative AI API, and FAISS.
+A application to upload PDF files, extract text, and ask questions based on the content. Utilizes PyPDF2, LangChain, Google's Generative AI API, and FAISS.
 
 ## Features
 
